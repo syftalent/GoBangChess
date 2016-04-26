@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cpLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cpLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
